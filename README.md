@@ -3,7 +3,7 @@ AWS Cloud Practitioner (CLF-C02) Certification Topics - FREE VERSION - Obsidian 
 
 # If you're reading this, you're closer to your certification!
 
-This material is designed so that you can take it and fully own it. It is a knowledge base in the form of an Obsidian vault with  around 70 files in English, with the topics related to the AWS Cloud Practitioner Essential (CLF-C02) certification, so that you can take this vault, explore it and customize it to your needs, tastes and your own understanding. 
+This material is designed so that you can take it and fully own it. It is a knowledge base in the form of an Obsidian vault with **around 70 files in English**, with the topics related to the **AWS Cloud Practitioner Essential (CLF-C02) certification**, so that you can take this vault, explore it and customize it to your needs, tastes and your own understanding. 
 
 The main idea is that this preloaded Second Brain is that you can turn it into an extension of your own brain, generating your own insights and leading you to improve your study process, understanding and organization in the certification.
 
@@ -23,7 +23,7 @@ A: **Whatttt?? No no no.** This Obsidian vault only contains some of the the top
 
 **Q: Are all the important points relating to this particular certification contained in this vault?**
 
-A: No, this FREE VERSION contains just a bit of information from the first 3 modules of the official AWS course.
+A: No, this **FREE VERSION** contains just a bit of information from the first 3 modules of the official AWS course.
 
 **Q: Is there a Spanish version available?**
 
